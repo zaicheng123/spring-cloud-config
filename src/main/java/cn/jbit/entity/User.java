@@ -9,4 +9,9 @@ public class User {
     private  String sex;
 
     private Integer age;
+
+    /**
+     * 备注
+     */
+    private  String text;
 }
