@@ -14,4 +14,13 @@ public class User {
      * 备注
      */
     private  String text;
+
+    private  String   details;
+
+
+
+
+
+    
+
 }
